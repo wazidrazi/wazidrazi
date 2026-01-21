@@ -1,29 +1,29 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wazidrazi"> -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Wazid+Ahmed....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Wazid+Ahmed...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/wazidrazi/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.facebook.com/WazidRazi" title="Facebook Profile"><img width="22" src="images/facebook.png"> Facebook</a></code>
-  <code><a href="https://www.youtube.com/@SoundOfH3arT" title="Youtube"><img width="22" src="images/stackoverflow.svg"> Youtube</a></code>
+  <code><a href="https://www.youtube.com/@SoundOfH3arT" title="Youtube"><img width="22" src="images/youtube.png"> Youtube</a></code>
   <code><a href="https://www.instagram.com/myself_wazid/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Wazid Ahmed, Web developer & Digital Marketer from Bangladesh
+  Hi, I'm Md. Wazid Ahmed Razi, Web developer & Digital Marketer from Bangladesh
   <br>
   <br>
   🎓 I graduated from Daffodil Institute of IT, Department of Computer Science & Engineering (Undergraduate)
   <br>
-  🎓 I graduated from Dhaka College (HSC)
+  🎓 I Completed Higher School from Dhaka College (HSC)
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Mern
+  📚 I’m currently learning how to build E-Commerce Website with MERN
   <br>
   📫 How to reach me: <a href="mailto: wazidrazi20@gmail.com">wazidrazi20@gmail.com</a>
 </p>
@@ -35,6 +35,7 @@
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="python" height="25" src="images/python-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
