@@ -21,7 +21,7 @@
   <br>
   🎓 I Completed Higher School from Dhaka College (HSC)
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anything about it
   <br>
   📚 I’m currently learning how to build E-Commerce Website with MERN
   <br>
@@ -87,7 +87,7 @@
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/wazidrazi?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
