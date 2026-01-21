@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/wazidrazi/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.facebook.com/WazidRazi" title="Facebook Profile"><img width="22" src="images/facebook.png"> Facebook</a></code>
-  <code><a href="https://x.com/FFWazid" title="Twitter Profile"><img width="22" src="images/stackoverflow.svg"> X</a></code>
+  <code><a href="https://www.youtube.com/@SoundOfH3arT" title="Youtube"><img width="22" src="images/stackoverflow.svg"> Youtube</a></code>
   <code><a href="https://www.instagram.com/myself_wazid/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
