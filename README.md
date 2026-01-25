@@ -1,4 +1,4 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wazidrazi"> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wazidrazi">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -78,7 +78,7 @@
 
 
 <!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -91,7 +91,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
 
 -->
