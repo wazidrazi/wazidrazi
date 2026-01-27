@@ -65,7 +65,13 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wazidrazi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+<hr>
 
+<div align=center>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=wazidrazi&theme=radical)](https://git.io/streak-stats)
+  
+</div>
 
 <hr>
 
