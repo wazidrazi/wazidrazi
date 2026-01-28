@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Md. Wazid Ahmed Razi, Web developer & Digital Marketer from Bangladesh
+  Hi, I'm Md. Wazid Ahmed Razi, Web developer from Bangladesh
   <br>
   <br>
   🎓 I graduated from Daffodil Institute of IT, Department of Computer Science & Engineering (Undergraduate)
@@ -29,7 +29,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
